@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-sentence-transformers
-PyPDF2
-streamlit
-fitz
-os
