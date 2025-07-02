@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-sentence-transformers
-PyMuPDF==1.25.5
-streamlit
-fitz
